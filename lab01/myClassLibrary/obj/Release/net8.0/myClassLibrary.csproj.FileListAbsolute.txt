@@ -1,0 +1,11 @@
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\bin\Release\net8.0\myClassLibrary.deps.json
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\bin\Release\net8.0\myClassLibrary.dll
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\bin\Release\net8.0\myClassLibrary.pdb
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.AssemblyInfoInputs.cache
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.AssemblyInfo.cs
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.dll
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\obj\Release\net8.0\refint\myClassLibrary.dll
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\obj\Release\net8.0\myClassLibrary.pdb
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\lab01\myClassLibrary\obj\Release\net8.0\ref\myClassLibrary.dll
