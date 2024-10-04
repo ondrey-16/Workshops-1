@@ -1,0 +1,16 @@
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\Binaries\Debug\net7.0\HelloWorld2.exe
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\Binaries\Debug\net7.0\HelloWorld2.deps.json
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\Binaries\Debug\net7.0\HelloWorld2.runtimeconfig.json
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\Binaries\Debug\net7.0\HelloWorld2.dll
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\Binaries\Debug\net7.0\HelloWorld2.pdb
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.AssemblyInfoInputs.cache
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.AssemblyInfo.cs
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.dll
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\refint\HelloWorld2.dll
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.pdb
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\HelloWorld2.genruntimeconfig.cache
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\obj\Debug\net7.0\ref\HelloWorld2.dll
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\Binaries\Debug\net7.0\Data\Epsilon.json
+C:\Users\andrz\OneDrive\Pulpit\Warsztaty_C#\Warsztaty_1\HelloWorld2\HelloWorld2\Binaries\Debug\net7.0\Data\Missions.json
